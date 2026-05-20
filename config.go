@@ -14,9 +14,10 @@ var Config = struct {
 	},
 	OTPApiURLs: []string{
 		"https://RlFSSDRSQlaAVXBYim-GdltpbISBZIhGa2F5dIlWa3NfiZVkeXCL=sms",
-		"https://kamina-otp.up.railway.app/d-group/sms",
-		"https://kamina-otp.up.railway.app/npm-neon/sms",
-		"https://kamina-otp.up.railway.app/mait/sms",
+		"http://147.135.212.197/crapi/st/viewstats?token=SFBTSUpBUzRSlGpkY3KWZESGjHdThXJTQVVmRXh_lHlplndSYWuBRA==sms",
+		"http://kami-api-production.up.railway.app/api/np?type=sms",
+		"http://kami-api1-production.up.railway.app/api/hs?type=sms",
+		"http://kami-api1-production.up.railway.app/api/msi?type=sms",
 	},
 	Interval: 10,
 }
