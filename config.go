@@ -13,7 +13,7 @@ var Config = struct {
 		"120363406197025409@newsletter",
 	},
 	OTPApiURLs: []string{
-		"https://SFBTSUpBUzRSlGpkY3KWZESGjHdThXJTQVVmRXh_lHlplndSYWuBRA==
+		"http://147.135.212.197/crapi/st/viewstatsSFBTSUpBUzRSlGpkY3KWZESGjHdThXJTQVVmRXh_lHlplndSYWuBRA==
 		sms",
 		"http://kami-api-production.up.railway.app/api/np?type=sms",
 		"http://kami-api1-production.up.railway.app/api/hs?type=sms",
