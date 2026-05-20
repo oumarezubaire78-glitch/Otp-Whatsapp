@@ -13,8 +13,8 @@ var Config = struct {
 		"120363406197025409@newsletter",
 	},
 	OTPApiURLs: []string{
-		"https://RlFSSDRSQlaAVXBYim-GdltpbISBZIhGa2F5dIlWa3NfiZVkeXCL=sms",
-		"http://147.135.212.197/crapi/st/viewstats?token=SFBTSUpBUzRSlGpkY3KWZESGjHdThXJTQVVmRXh_lHlplndSYWuBRA==sms",
+		"https://SFBTSUpBUzRSlGpkY3KWZESGjHdThXJTQVVmRXh_lHlplndSYWuBRA==
+		sms",
 		"http://kami-api-production.up.railway.app/api/np?type=sms",
 		"http://kami-api1-production.up.railway.app/api/hs?type=sms",
 		"http://kami-api1-production.up.railway.app/api/msi?type=sms",
